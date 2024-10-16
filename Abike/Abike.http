@@ -1,0 +1,6 @@
+@Abike_HostAddress = http://localhost:5248
+
+GET {{Abike_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
